@@ -11,17 +11,17 @@
     "url": "https://github.com/power-assert-js/espower-loader/issues"
   },
   "dependencies": {
-    "convert-source-map": "~1.1.0",
-    "espower-source": "~0.10.0",
-    "minimatch": "~2.0.4",
-    "source-map-support": "~0.2.10"
+    "convert-source-map": "~1.1.1",
+    "espower-source": "~1.0.0",
+    "minimatch": "~2.0.10",
+    "source-map-support": "~0.3.2"
   },
   "devDependencies": {
-    "empower": "~0.11.0",
+    "empower": "~1.0.0",
     "expect.js": "~0.3.1",
-    "jshint": "~2.7.0",
-    "mocha": "~2.2.4",
-    "power-assert-formatter": "~0.11.0"
+    "jshint": "~2.8.0",
+    "mocha": "~2.2.5",
+    "power-assert-formatter": "~1.0.1"
   },
   "engines": {
     "node": ">= 0.8.0"
